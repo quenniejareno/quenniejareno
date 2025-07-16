@@ -4,7 +4,7 @@
 💡 DOST and CHED Merit Scholar <br/>
 🧠 DOST-START Member <br/>
 🖥️ I create personal/group capstone projects <br/>
-🔎 Currently looking for internship
+🔎 Currently looking for internship for site experience
 
 
 # 💻 Tech Stack:
